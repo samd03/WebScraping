@@ -1,0 +1,3 @@
+pip 7.1.2 installed
+python 2.7.11 installed
+chromedriver.exe installed
